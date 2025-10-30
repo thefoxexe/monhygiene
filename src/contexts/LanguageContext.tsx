@@ -1360,6 +1360,10 @@ const translations: Record<Language, Record<string, any>> = {
     'pricing.example': 'Example: Sion → Martigny = CHF 20.25 to add to the rate.',
     'pricing.unique_rate': 'Fixed rate',
     'pricing.cleaning_rates': 'Cleaning rates',
+
+    // Cart Widget
+    'cart.empty': 'Your cart is empty',
+    'cart.goodbye_dirt_btn': 'Say goodbye to dirt!',
     
     // Gallery
     'gallery.title': 'Our Work',
